@@ -1,1 +1,1 @@
-# Things that are no longer 0day or important:)
+# No 0days here.
